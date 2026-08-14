@@ -67,4 +67,4 @@ This project is part of the **Sathtern Cyber Security Internship – Task 3 (Net
 
 ## 👨‍💻 Author
 
-Prasanna TZ
+Prasanna Tudu
