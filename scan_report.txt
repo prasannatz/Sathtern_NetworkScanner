@@ -1,0 +1,15 @@
+NETWORK PORT SCAN REPORT
+========================================
+
+Target: scanme.nmap.org
+Scan started: 2026-08-15 13:54:05
+Scan completed: 2026-08-15 13:55:46
+Duration: 100.80 seconds
+
+OPEN PORTS
+----------------------------------------
+Port 22 -> SSH
+Port 53 -> DNS
+Port 80 -> HTTP
+
+Total open ports: 3
