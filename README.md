@@ -5,26 +5,26 @@
 
 ---
 
-## 📌 Description
+##  Description
 A Python-based network port scanner that scans open ports on a target IP or domain using socket programming. Developed as part of the Sathtern Cyber Security Internship.
 
 ---
 
-## 🚀 Features
-- 🔍 Scan ports from 1 to 200  
-- ⚡ Detect open ports  
-- 🌐 Display common services (HTTP, SSH, DNS, etc.)  
-- 🧠 Fast and efficient scanning  
+##  Features
+-  Scan ports from 1 to 200  
+-  Detect open ports  
+-  Display common services (HTTP, SSH, DNS, etc.)  
+-  Fast and efficient scanning  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Python  
 - Socket Library  
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ```bash
 python scanner.py
@@ -37,7 +37,7 @@ scanme.nmap.org
 
 ---
 
-## 📸 Example Output
+##  Example Output
 
 ```
 [OPEN] Port 22 -> SSH
@@ -49,7 +49,7 @@ Scan completed.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Sathtern_NetworkScanner/
@@ -59,12 +59,12 @@ Sathtern_NetworkScanner/
 
 ---
 
-## 🎯 Internship Task
+##  Internship Task
 
 This project is part of the **Sathtern Cyber Security Internship – Task 3 (Network Port Scanner)**.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Prasanna Tudu
